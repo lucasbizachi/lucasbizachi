@@ -4,8 +4,8 @@
 
 <div align="lefth">
   <a href="https://github.com/lucasbizachi">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbizachi&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbizachi&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbizachi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbizachi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##

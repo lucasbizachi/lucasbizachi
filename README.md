@@ -1,6 +1,8 @@
 ## Olá Eu sou o Lucas Bizachi
 
 - 📚  Aprendendo a Programar
+- 🎨  Formado em Artes Visuais e Design Gráfico
+- 
 
 <div align="lefth">
   <a href="https://github.com/lucasbizachi">

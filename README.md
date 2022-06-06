@@ -1,7 +1,8 @@
-## Olá Eu sou o Lucas Bizachi
+## Olá Eu sou o Lucas Bizachi. 
 
-- 📚  Aprendendo a Programar
-- 🎨  Formado em Artes Visuais e Design Gráfico
+- 📚  Aprendendo a Programar.
+- 🎓  Formado em Artes Visuais e Design Gráfico.
+- 🎨  Conhecimento em softwares da Adobe, edição de vídeo e animação 2d.  
 
 <div align="lefth">
   <a href="https://github.com/lucasbizachi">

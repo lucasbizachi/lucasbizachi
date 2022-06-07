@@ -1,4 +1,4 @@
-## Olá Eu sou o Lucas Bizachi. 
+## Olá eu sou o Lucas Bizachi. 
 
 - 📚  Aprendendo a Programar.
 - 🎓  Formado em Artes Visuais e Design Gráfico.

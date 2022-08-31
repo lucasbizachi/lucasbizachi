@@ -1,4 +1,4 @@
-## Olá eu sou o Lucas Bizachi. 
+## Lucas Bizachi. 
 
 Meu nome é Lucas, sou estudante de Desenvolvimento de Sistemas pelo Centro Paula Souza, sou formado em Artes Visuais e Design Gráfico. 
 Já trabalhei na área de design gráfico, fui professor e trabalhei com animação 2d. 

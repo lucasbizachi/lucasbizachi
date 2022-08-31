@@ -1,4 +1,4 @@
-## Lucas Bizachi. 
+# Lucas Bizachi. 
 
 Meu nome é Lucas, sou estudante de Desenvolvimento de Sistemas pelo Centro Paula Souza, sou formado em Artes Visuais e Design Gráfico. 
 Já trabalhei na área de design gráfico, fui professor e trabalhei com animação 2d. 
@@ -10,9 +10,10 @@ Tenho conhecimento em Adobe Photoshop, CorelDRAW, Adobe Illustrator e Figma.
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbizachi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbizachi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-  ##
-  </div>
+
+ 
+  ## Tecnologias e ferramentas:
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

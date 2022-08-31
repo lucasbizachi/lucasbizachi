@@ -3,7 +3,7 @@
 Meu nome é Lucas, sou estudante de Desenvolvimento de Sistemas pelo Centro Paula Souza, sou formado em Artes Visuais e Design Gráfico. 
 Já trabalhei na área de design gráfico, fui professor e trabalhei com animação 2d. 
 Hoje busco colocar todo meu conhecimento e experiência dentro do mercado tecnológico. 
-Tenho conhecimento em Adobe Photoshop, CorelDRAW, Adobe Ilustrator e Figma.
+Tenho conhecimento em Adobe Photoshop, CorelDRAW, Adobe Illustrator e Figma.
 
 <div align="lefth">
   <a href="https://github.com/lucasbizachi">

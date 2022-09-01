@@ -1,6 +1,4 @@
-# Lucas Bizachi. 
-
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lucasbizachi/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+# Lucas Bizachi  <img  align="right" src="https://komarev.com/ghpvc/?username=lucasbizachi&color=yellow" alt="Profile views" /> </p>
 Meu nome é Lucas, sou estudante de Desenvolvimento de Sistemas pelo Centro Paula Souza, sou formado em Artes Visuais e Design Gráfico. 
 Já trabalhei na área de design gráfico, fui professor e trabalhei com animação 2d. 
 Hoje busco colocar todo meu conhecimento e experiência dentro do mercado tecnológico. 

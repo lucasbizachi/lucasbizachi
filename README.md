@@ -1,14 +1,11 @@
-# Lucas Bizachi  <img  align="right" src="https://komarev.com/ghpvc/?username=lucasbizachi&color=yellow" alt="Profile views" /> 
+<h1>Lucas Bizachi</h1>  
+<img src="https://komarev.com/ghpvc/?username=lucasbizachi&color=yellow" alt="Profile views" /> 
 Meu nome é Lucas, sou estudante de Desenvolvimento de Sistemas pelo Centro Paula Souza, sou formado em Artes Visuais e Design Gráfico. 
 Já trabalhei na área de design gráfico, fui professor e trabalhei com animação 2d. 
 Hoje busco colocar todo meu conhecimento e experiência dentro do mercado tecnológico. 
 Tenho conhecimento em Adobe Photoshop, CorelDRAW, Adobe Illustrator e Figma.
 
-<div align="lefth">
-  <a href="https://github.com/lucasbizachi">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbizachi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbizachi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
  
   ## Tecnologias e ferramentas:
@@ -21,6 +18,12 @@ Tenho conhecimento em Adobe Photoshop, CorelDRAW, Adobe Illustrator e Figma.
   <img align="center" alt="" height="40" width="50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="" height="40" width="50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
   <img align="center" alt="" height="40" width="50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div> </br>
+
+<div align="lefth">
+  <a href="https://github.com/lucasbizachi">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbizachi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbizachi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   

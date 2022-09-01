@@ -5,10 +5,7 @@ Já trabalhei na área de design gráfico, fui professor e trabalhei com animaç
 Hoje busco colocar todo meu conhecimento e experiência dentro do mercado tecnológico. 
 Tenho conhecimento em Adobe Photoshop, CorelDRAW, Adobe Illustrator e Figma.
 
-
-
- 
-  ## Tecnologias e ferramentas:
+## Tecnologias e ferramentas:
   
  <div style="display: inline_block"><br>
   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,8 +23,7 @@ Tenho conhecimento em Adobe Photoshop, CorelDRAW, Adobe Illustrator e Figma.
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbizachi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  
-## Contatos:
+  ## Contatos:
   <div>
     <a href="https://www.linkedin.com/in/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://instagram.com/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-685EA9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

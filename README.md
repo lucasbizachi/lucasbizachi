@@ -1,4 +1,4 @@
-# Lucas Bizachi  <img  align="right" src="https://komarev.com/ghpvc/?username=lucasbizachi&color=yellow" alt="Profile views" /> </p>
+# Lucas Bizachi  <img  align="right" src="https://komarev.com/ghpvc/?username=lucasbizachi&color=yellow" alt="Profile views" /> 
 Meu nome é Lucas, sou estudante de Desenvolvimento de Sistemas pelo Centro Paula Souza, sou formado em Artes Visuais e Design Gráfico. 
 Já trabalhei na área de design gráfico, fui professor e trabalhei com animação 2d. 
 Hoje busco colocar todo meu conhecimento e experiência dentro do mercado tecnológico. 

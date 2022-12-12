@@ -25,8 +25,8 @@ Tenho conhecimento em Adobe Photoshop, CorelDRAW, Adobe Illustrator e Figma.
   
   ## Contatos:
   <div>
-    <a href="https://www.linkedin.com/in/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href="https://instagram.com/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-685EA9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://codepen.io/LucasBizachi" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&#160;&#160;
+     <a href="https://instagram.com/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-685EA9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&#160;&#160;
+   <a href="https://codepen.io/LucasBizachi" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>&#160;&#160;
   </div>
   

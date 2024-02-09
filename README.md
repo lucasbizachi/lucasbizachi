@@ -2,8 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=lucasbizachi&color=yellow" alt="Profile views" /> 
 Meu nome é Lucas, trabalho com Desenvolvimento de Sistemas e sou formado em Artes Visuais e Design Gráfico. 
 Já trabalhei na área de design gráfico, fui professor e trabalhei com animação 2d. 
-Hoje busco colocar todo meu conhecimento e experiência dentro do mercado tecnológico. 
-Tenho conhecimento em Adobe Photoshop, CorelDRAW, Adobe Illustrator e Figma.
+Hoje busco colocar todo meu conhecimento e experiência dentro do mercado tecnológico.
 
 ## Tecnologias e ferramentas:
   

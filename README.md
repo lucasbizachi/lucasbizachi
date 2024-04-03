@@ -4,7 +4,7 @@ Meu nome é Lucas, trabalho com Desenvolvimento de Sistemas e sou formado em Art
 Já trabalhei na área de design gráfico, fui professor e trabalhei com animação 2d. 
 Hoje busco colocar todo meu conhecimento e experiência dentro do mercado tecnológico.
 
-## Tecnologias e ferramentas:
+## Tecnologias:
   
  <div style="display: inline_block"><br>
   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

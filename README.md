@@ -1,8 +1,6 @@
 <h1>Lucas Bizachi</h1>  
 <img src="https://komarev.com/ghpvc/?username=lucasbizachi&color=yellow" alt="Profile views" /> 
-Meu nome é Lucas, trabalho com Desenvolvimento de Sistemas e sou formado em Artes Visuais e Design Gráfico. 
-Já trabalhei na área de design gráfico, fui professor e trabalhei com animação 2d. 
-Hoje busco colocar todo meu conhecimento e experiência dentro do mercado tecnológico.
+Meu nome é Lucas, sou técnico em Desenvolvimento de Sistemas, formado em Artes Visuais e Design Gráfico. Trabalho com Desenvolvimento de Sistemas e já atuei em diversas áreas, incluindo design gráfico. Além disso, tenho experiência como professor e trabalhei com animação 2D. Atualmente, busco integrar todo o meu conhecimento e experiência no mercado tecnológico.
 
 ## Tecnologias:
   

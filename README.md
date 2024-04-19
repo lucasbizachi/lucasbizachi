@@ -1,4 +1,4 @@
-<h1>Lucas Bizachi</h1>  
+# Bem-Vindos ao meu GitHub! 
 <img src="https://komarev.com/ghpvc/?username=lucasbizachi&color=yellow" alt="Profile views" /> 
 Meu nome é Lucas, sou técnico em Desenvolvimento de Sistemas, formado em Artes Visuais e Design Gráfico. Trabalho com Desenvolvimento de Sistemas e já atuei em diversas áreas, incluindo design gráfico. Além disso, tenho experiência como professor e trabalhei com animação 2D. Atualmente, busco integrar todo o meu conhecimento e experiência no mercado tecnológico.
 

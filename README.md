@@ -2,20 +2,30 @@
 <img src="https://komarev.com/ghpvc/?username=lucasbizachi&color=yellow" alt="Profile views" /> 
 Meu nome é Lucas, sou técnico em Desenvolvimento de Sistemas, formado em Artes Visuais e Design Gráfico. Trabalho com Desenvolvimento de Sistemas e já atuei em diversas áreas, incluindo design gráfico. Além disso, tenho experiência como professor e trabalhei com animação 2D. Atualmente, busco integrar todo o meu conhecimento e experiência no mercado tecnológico.
 
-<h2>Tech Stack</h2>
-  
- <div style="display: inline_block"><br>
+ ## Contatos:
+  <div>
+    <a href="https://www.linkedin.com/in/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&#160;&#160;
+     <a href="https://instagram.com/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-685EA9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&#160;&#160;
+   <a href="https://codepen.io/LucasBizachi" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>&#160;&#160;
+  </div>
+
+## Tech Stack
+
+### Front-End
+ <div style="display: inline_block">
   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div> </br>
+</div> 
 
-<div style="display: inline_block"><br>
+<br>
+
+### Back-End
+<div style="display: inline_block">
   <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-</div> </br>
+</div> 
 
 <div align="lefth">
   <a href="https://github.com/lucasbizachi">
@@ -23,10 +33,5 @@ Meu nome é Lucas, sou técnico em Desenvolvimento de Sistemas, formado em Artes
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbizachi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ## Contatos:
-  <div>
-    <a href="https://www.linkedin.com/in/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&#160;&#160;
-     <a href="https://instagram.com/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-685EA9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&#160;&#160;
-   <a href="https://codepen.io/LucasBizachi" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>&#160;&#160;
-  </div>
+ 
   

@@ -1,6 +1,6 @@
 <h1>Bem-Vindos ao meu GitHub! </h1>
 <img src="https://komarev.com/ghpvc/?username=lucasbizachi&color=yellow" alt="Profile views" /> 
-Meu nome é Lucas, sou técnico em Desenvolvimento de Sistemas, formado em Artes Visuais e Design Gráfico. Trabalho com Desenvolvimento de Sistemas e já atuei em diversas áreas, incluindo design gráfico. Além disso, tenho experiência como professor e trabalhei com animação 2D. Atualmente, busco integrar todo o meu conhecimento e experiência no mercado tecnológico.
+<p>Meu nome é Lucas, sou técnico em Desenvolvimento de Sistemas, formado em Artes Visuais e Design Gráfico. Trabalho com Desenvolvimento de Sistemas e já atuei em diversas áreas, incluindo design gráfico. Além disso, tenho experiência como professor e trabalhei com animação 2D. Atualmente, busco integrar todo o meu conhecimento e experiência no mercado tecnológico.</p> <br>
 
   <div>
     <a href="https://www.linkedin.com/in/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&#160;&#160;
@@ -12,29 +12,28 @@ Meu nome é Lucas, sou técnico em Desenvolvimento de Sistemas, formado em Artes
 
 ### Front-End
  <div style="display: inline_block">
-  <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
-   <!--<img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript">-->
-  <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-  <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
-  <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
+  <img src="https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833">&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF">&nbsp;
+  <img src="https://img.shields.io/badge/-javascript-E7ECEB?style=for-the-badge&logo=javascript&logoColor=efb810">&nbsp;
+  <img src="https://img.shields.io/badge/-bootstrap-E7ECEB?style=for-the-badge&logo=bootstrap&logoColor=6f42c1">&nbsp;
+  <img src="https://img.shields.io/badge/-React-E7ECEB?style=for-the-badge&logo=react&logoColor=1572B6">&nbsp;
 </div> 
 
-<br>
+
 
 ### Back-End
 <div style="display: inline_block">
-  <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> &nbsp;
-  <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+ <img src="https://img.shields.io/badge/-python-E7ECEB?style=for-the-badge&logo=python&logoColor=1919e6">
 </div> 
 
-<br>
+
 
 ### Database
 <div style="display: inline_block">
-  <img align="center" alt="" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img src="https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F">&nbsp;
 </div> 
 
-<br>
 
 <div align="lefth">
   <a href="https://github.com/lucasbizachi">

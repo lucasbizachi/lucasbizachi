@@ -6,6 +6,11 @@
   * 🎨 Design Gráfico
   * 👨🏻‍💻 Desenvolvimento de Sistemas
 
+<p>
+ Olá meu nome é Lucas e sou formado em Desenvolvimeto de Sistemas desde 2023. Regularmente adiciono meus projetos pessoais e estudos de programação aos repositórios aqui no GitHub.
+
+</p>
+
   <div>
     <a href="https://codepen.io/LucasBizachi" target="_blank"><img src="https://img.shields.io/badge/Codepen-44475A?style=for-the-badge&logo=codepen&logoColor=white"></a>&#160;&#160;
     <a href="https://www.linkedin.com/in/lucas-bizachi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-44475A?style=for-the-badge&logo=linkedin&logoColor=50ABE4" target="_blank"></a>&#160;&#160;

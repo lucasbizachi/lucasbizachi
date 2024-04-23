@@ -3,9 +3,9 @@
 <p>Meu nome é Lucas, sou técnico em Desenvolvimento de Sistemas, formado em Artes Visuais e Design Gráfico. Trabalho com Desenvolvimento de Sistemas e já atuei em diversas áreas, incluindo design gráfico. Além disso, tenho experiência como professor e trabalhei com animação 2D. Atualmente, busco integrar todo o meu conhecimento e experiência no mercado tecnológico.</p> <br>
 
   <div>
-    <a href="https://www.linkedin.com/in/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-E7ECEB?style=for-the-badge&logo=linkedin&logoColor=%230077B5" target="_blank"></a>&#160;&#160;
-    <a href="https://codepen.io/LucasBizachi" target="_blank"><img src="https://img.shields.io/badge/Codepen-E7ECEB?style=for-the-badge&logo=codepen&logoColor=black" target="_blank"></a>&#160;&#160;
-    <a href="https://instagram.com/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E7ECEB?style=for-the-badge&logo=instagram&logoColor=8134Af" target="_blank"></a>&#160;&#160;
+    <a href="https://www.linkedin.com/in/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-44475A?style=for-the-badge&logo=linkedin&logoColor=50ABE4" target="_blank"></a>&#160;&#160;
+    <a href="https://codepen.io/LucasBizachi" target="_blank"><img src="https://img.shields.io/badge/Codepen-44475A?style=for-the-badge&logo=codepen&logoColor=white"></a>&#160;&#160;
+    <a href="https://instagram.com/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-44475A?style=for-the-badge&logo=instagram&logoColor=lightpurple" target="_blank"></a>&#160;&#160;
   </div>
 
 ## Tech Stack

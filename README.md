@@ -1,4 +1,4 @@
-<h1>Bem-Vindos ao meu GitHub! :wave: </h1>
+<h1> :wave: Bem-Vindos ao meu GitHub!</h1>
 <img src="https://komarev.com/ghpvc/?username=lucasbizachi&color=ff4700" alt="Profile views" /> 
 
 

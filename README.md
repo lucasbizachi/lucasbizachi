@@ -4,7 +4,7 @@
 
   <div>
     <a href="https://codepen.io/LucasBizachi" target="_blank"><img src="https://img.shields.io/badge/Codepen-44475A?style=for-the-badge&logo=codepen&logoColor=white"></a>&#160;&#160;
-    <a href="https://www.linkedin.com/in/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-44475A?style=for-the-badge&logo=linkedin&logoColor=50ABE4" target="_blank"></a>&#160;&#160;
+    <a href="https://www.linkedin.com/in/lucas-bizachi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-44475A?style=for-the-badge&logo=linkedin&logoColor=50ABE4" target="_blank"></a>&#160;&#160;
     <a href="https://instagram.com/lucasbizachi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-44475A?style=for-the-badge&logo=instagram&logoColor=lightpurple" target="_blank"></a>&#160;&#160;
   </div>
 

@@ -36,7 +36,7 @@
 
 <br>
 
-<h3 align="left">GitHub Stats</h3>
+<h2 align="left"> :bar_chart: GitHub Stats</h2>
 <div align="lefth">
   <a href="https://github.com/lucasbizachi">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbizachi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

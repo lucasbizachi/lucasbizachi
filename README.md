@@ -23,7 +23,7 @@
 
 ### Back-End
 <div style="display: inline_block">
- <img src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+ <img src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=198754">&nbsp;
  <img src="https://img.shields.io/badge/-python-E7ECEB?style=for-the-badge&logo=python&logoColor=1919e6">
 </div> 
 
@@ -34,7 +34,9 @@
   <img src="https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F">&nbsp;
 </div> 
 
+<br>
 
+<h3 align="left">GitHub Stats</h3>
 <div align="lefth">
   <a href="https://github.com/lucasbizachi">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbizachi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

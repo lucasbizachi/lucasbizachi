@@ -7,7 +7,7 @@
   * 👨🏻‍💻 Desenvolvimento de Sistemas
 
 <p>
- Olá meu nome é Lucas e sou formado em Desenvolvimeto de Sistemas desde 2023. Regularmente adiciono meus projetos pessoais e estudos de programação aos repositórios aqui no GitHub.
+ Olá meu nome é Lucas e sou formado em Desenvolvimeto de Sistemas desde 2023. Regularmente adiciono meus projetos pessoais e estudos de programação aqui no GitHub.
 
 </p>
 

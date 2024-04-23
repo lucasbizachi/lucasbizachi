@@ -1,6 +1,6 @@
-<h1>Bem-Vindos ao meu GitHub! </h1>
-<img src="https://komarev.com/ghpvc/?username=lucasbizachi&color=yellow" alt="Profile views" /> 
-<p>Meu nome é Lucas, sou técnico em Desenvolvimento de Sistemas, formado em Artes Visuais e Design Gráfico. Trabalho com Desenvolvimento de Sistemas e já atuei em diversas áreas, incluindo design gráfico. Além disso, tenho experiência como professor e trabalhei com animação 2D. Atualmente, busco integrar todo o meu conhecimento e experiência no mercado tecnológico.</p> <br>
+<h1>Bem-Vindos ao meu GitHub! :wave: </h1>
+<img src="https://komarev.com/ghpvc/?username=lucasbizachi&color=ff4700" alt="Profile views" /> 
+
 
   <div>
     <a href="https://codepen.io/LucasBizachi" target="_blank"><img src="https://img.shields.io/badge/Codepen-44475A?style=for-the-badge&logo=codepen&logoColor=white"></a>&#160;&#160;

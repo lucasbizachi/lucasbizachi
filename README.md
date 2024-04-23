@@ -1,6 +1,10 @@
 <h1> :wave: Bem-Vindos ao meu GitHub!</h1>
 <img src="https://komarev.com/ghpvc/?username=lucasbizachi&color=ff4700" alt="Profile views" /> 
 
+### Formação:
+  * 🎓 Artes Visuais
+  * 🎨 Técnico em Design Gráfico
+  * 👨🏻‍💻 Técnico em Desenvilvimento de Sistemas
 
   <div>
     <a href="https://codepen.io/LucasBizachi" target="_blank"><img src="https://img.shields.io/badge/Codepen-44475A?style=for-the-badge&logo=codepen&logoColor=white"></a>&#160;&#160;

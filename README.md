@@ -20,29 +20,13 @@
 ## Tech Stack
 
 ### Front-End
- <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF">&nbsp;
-  <img src="https://img.shields.io/badge/-javascript-E7ECEB?style=for-the-badge&logo=javascript&logoColor=efb810">&nbsp;
-  <img src="https://img.shields.io/badge/-bootstrap-E7ECEB?style=for-the-badge&logo=bootstrap&logoColor=6f42c1">&nbsp;
-  <img src="https://img.shields.io/badge/-React-E7ECEB?style=for-the-badge&logo=react&logoColor=1572B6">&nbsp;
-</div> 
-
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
 
 ### Back-End
-<div style="display: inline_block">
- <img src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=198754">&nbsp;
- <img src="https://img.shields.io/badge/-python-E7ECEB?style=for-the-badge&logo=python&logoColor=1919e6">
-</div> 
-
-
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)
 
 ### Database
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F">&nbsp;
-</div> 
-
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 <br>
 
 <h2 align="left"> :bar_chart: GitHub Stats</h2>

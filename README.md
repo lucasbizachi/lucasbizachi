@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
 
 ### Back-End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,typescript)](https://skillicons.dev)
 
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)

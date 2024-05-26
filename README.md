@@ -18,15 +18,8 @@
   </div>
 
 ## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,python,bootstrap,react,nodejs,mysql)](https://skillicons.dev)
 
-### Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
-
-### Back-End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,typescript)](https://skillicons.dev)
-
-### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 <br>
 
 <h2 align="left"> :bar_chart: GitHub Stats</h2>
